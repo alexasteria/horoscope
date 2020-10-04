@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/horoscope/static/css/main.12dd70b7.chunk.css",
-    "main.js": "/horoscope/static/js/main.60607c2a.chunk.js",
-    "main.js.map": "/horoscope/static/js/main.60607c2a.chunk.js.map",
+    "main.js": "/horoscope/static/js/main.016f1051.chunk.js",
+    "main.js.map": "/horoscope/static/js/main.016f1051.chunk.js.map",
     "runtime-main.js": "/horoscope/static/js/runtime-main.0ac36cb9.js",
     "runtime-main.js.map": "/horoscope/static/js/runtime-main.0ac36cb9.js.map",
     "static/css/2.09e62520.chunk.css": "/horoscope/static/css/2.09e62520.chunk.css",
     "static/js/2.5e7b7cd4.chunk.js": "/horoscope/static/js/2.5e7b7cd4.chunk.js",
     "static/js/2.5e7b7cd4.chunk.js.map": "/horoscope/static/js/2.5e7b7cd4.chunk.js.map",
     "index.html": "/horoscope/index.html",
-    "precache-manifest.f598488151efa27ba49629c72b264a4c.js": "/horoscope/precache-manifest.f598488151efa27ba49629c72b264a4c.js",
+    "precache-manifest.cbc155d1f4903827e07059604087af1a.js": "/horoscope/precache-manifest.cbc155d1f4903827e07059604087af1a.js",
     "service-worker.js": "/horoscope/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/horoscope/static/css/2.09e62520.chunk.css.map",
     "static/css/main.12dd70b7.chunk.css.map": "/horoscope/static/css/main.12dd70b7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.09e62520.chunk.css",
     "static/js/2.5e7b7cd4.chunk.js",
     "static/css/main.12dd70b7.chunk.css",
-    "static/js/main.60607c2a.chunk.js"
+    "static/js/main.016f1051.chunk.js"
   ]
 }
