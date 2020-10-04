@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90c34db2265e8ed997113eac6a90109a",
+    "revision": "6aafaed0281698f53535bdc21c72940e",
     "url": "/horoscope/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/horoscope/static/css/2.09e62520.chunk.css"
   },
   {
-    "revision": "8182acda8dd7b21daa1b",
+    "revision": "2ae94d1cbef25f77dc53",
     "url": "/horoscope/static/css/main.d8522e7c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/horoscope/static/js/2.5e7b7cd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8182acda8dd7b21daa1b",
-    "url": "/horoscope/static/js/main.ba875ad1.chunk.js"
+    "revision": "2ae94d1cbef25f77dc53",
+    "url": "/horoscope/static/js/main.ea6c32d5.chunk.js"
   },
   {
     "revision": "baea82dfd04f550fab65",
