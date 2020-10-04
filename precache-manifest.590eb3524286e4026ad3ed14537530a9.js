@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecd0fe31ff46160c1192ef754ce64f70",
+    "revision": "e6d3e20bc0c92a63f0dd4c000ebc9b26",
     "url": "/horoscope/index.html"
   },
   {
-    "revision": "fac00aeb3140d2c5dbaf",
+    "revision": "6650aaddb6face9abe73",
     "url": "/horoscope/static/css/2.09e62520.chunk.css"
   },
   {
-    "revision": "9be6ea49a6a9cda8ee73",
+    "revision": "ecb61b0b4890ab267f8a",
     "url": "/horoscope/static/css/main.d8522e7c.chunk.css"
   },
   {
-    "revision": "fac00aeb3140d2c5dbaf",
-    "url": "/horoscope/static/js/2.a2b002fd.chunk.js"
+    "revision": "6650aaddb6face9abe73",
+    "url": "/horoscope/static/js/2.6bb6551b.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/horoscope/static/js/2.a2b002fd.chunk.js.LICENSE.txt"
+    "url": "/horoscope/static/js/2.6bb6551b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9be6ea49a6a9cda8ee73",
-    "url": "/horoscope/static/js/main.3089ae89.chunk.js"
+    "revision": "ecb61b0b4890ab267f8a",
+    "url": "/horoscope/static/js/main.3de09222.chunk.js"
   },
   {
     "revision": "baea82dfd04f550fab65",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5342dbbb9fdcd0181b0ab9fb46b01838",
     "url": "/horoscope/static/media/paper.5342dbbb.png"
+  },
+  {
+    "revision": "4a1a783625bc8cc86bc2d3825aa409ce",
+    "url": "/horoscope/static/media/papercake.4a1a7836.png"
   }
 ]);
