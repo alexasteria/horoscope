@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/horoscope/precache-manifest.2ae27df5082679ac1f6b3763f1c6699f.js"
+  "/horoscope/precache-manifest.6052436b100d324f29d31f48b8ffbd2c.js"
 );
 
 self.addEventListener('message', (event) => {
