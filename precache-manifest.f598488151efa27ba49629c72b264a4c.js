@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad6fca18ac773e57cf9b2a13c7a21abc",
+    "revision": "4392137ecfdc5fba01678bc4a1a35ea5",
     "url": "/horoscope/index.html"
   },
   {
-    "revision": "0f6b6d7ec7665a77a277",
+    "revision": "13c31912a948102c79d5",
     "url": "/horoscope/static/css/2.09e62520.chunk.css"
   },
   {
-    "revision": "ed81dcbee2b217b7d786",
+    "revision": "578beef2536e1da59414",
     "url": "/horoscope/static/css/main.12dd70b7.chunk.css"
   },
   {
-    "revision": "0f6b6d7ec7665a77a277",
-    "url": "/horoscope/static/js/2.1ed78c5b.chunk.js"
+    "revision": "13c31912a948102c79d5",
+    "url": "/horoscope/static/js/2.5e7b7cd4.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/horoscope/static/js/2.1ed78c5b.chunk.js.LICENSE.txt"
+    "url": "/horoscope/static/js/2.5e7b7cd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed81dcbee2b217b7d786",
-    "url": "/horoscope/static/js/main.6a911fd3.chunk.js"
+    "revision": "578beef2536e1da59414",
+    "url": "/horoscope/static/js/main.60607c2a.chunk.js"
   },
   {
     "revision": "baea82dfd04f550fab65",
