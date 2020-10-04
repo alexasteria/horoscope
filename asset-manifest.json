@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/horoscope/static/css/main.4facc353.chunk.css",
-    "main.js": "/horoscope/static/js/main.31cce683.chunk.js",
-    "main.js.map": "/horoscope/static/js/main.31cce683.chunk.js.map",
+    "main.js": "/horoscope/static/js/main.a71f34ab.chunk.js",
+    "main.js.map": "/horoscope/static/js/main.a71f34ab.chunk.js.map",
     "runtime-main.js": "/horoscope/static/js/runtime-main.0ac36cb9.js",
     "runtime-main.js.map": "/horoscope/static/js/runtime-main.0ac36cb9.js.map",
     "static/css/2.09e62520.chunk.css": "/horoscope/static/css/2.09e62520.chunk.css",
-    "static/js/2.44366424.chunk.js": "/horoscope/static/js/2.44366424.chunk.js",
-    "static/js/2.44366424.chunk.js.map": "/horoscope/static/js/2.44366424.chunk.js.map",
+    "static/js/2.c553ffe0.chunk.js": "/horoscope/static/js/2.c553ffe0.chunk.js",
+    "static/js/2.c553ffe0.chunk.js.map": "/horoscope/static/js/2.c553ffe0.chunk.js.map",
     "index.html": "/horoscope/index.html",
-    "precache-manifest.995be040faf2c674052c59ccc168dd31.js": "/horoscope/precache-manifest.995be040faf2c674052c59ccc168dd31.js",
+    "precache-manifest.0e4f2d677d9758cc34802bc1b3704975.js": "/horoscope/precache-manifest.0e4f2d677d9758cc34802bc1b3704975.js",
     "service-worker.js": "/horoscope/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/horoscope/static/css/2.09e62520.chunk.css.map",
     "static/css/main.4facc353.chunk.css.map": "/horoscope/static/css/main.4facc353.chunk.css.map",
-    "static/js/2.44366424.chunk.js.LICENSE.txt": "/horoscope/static/js/2.44366424.chunk.js.LICENSE.txt",
+    "static/js/2.c553ffe0.chunk.js.LICENSE.txt": "/horoscope/static/js/2.c553ffe0.chunk.js.LICENSE.txt",
     "static/media/style.css": "/horoscope/static/media/background.915d84b7.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ac36cb9.js",
     "static/css/2.09e62520.chunk.css",
-    "static/js/2.44366424.chunk.js",
+    "static/js/2.c553ffe0.chunk.js",
     "static/css/main.4facc353.chunk.css",
-    "static/js/main.31cce683.chunk.js"
+    "static/js/main.a71f34ab.chunk.js"
   ]
 }
