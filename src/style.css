@@ -1,0 +1,13 @@
+.Panel .Panel__in, .Placeholder__header{
+    background: url("panels/components/img/background.jpeg") center no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+
+.PanelHeader__in {
+    background: linear-gradient(#1c72bb, #12124c);
+}
+
+div, .PanelHeader__content {
+    color: aliceblue;
+}
